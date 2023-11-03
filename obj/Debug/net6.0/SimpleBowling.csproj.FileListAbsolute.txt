@@ -1,0 +1,14 @@
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\bin\Debug\net6.0\SimpleBowling.exe
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\bin\Debug\net6.0\SimpleBowling.deps.json
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\bin\Debug\net6.0\SimpleBowling.runtimeconfig.json
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\bin\Debug\net6.0\SimpleBowling.dll
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\bin\Debug\net6.0\SimpleBowling.pdb
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\obj\Debug\net6.0\SimpleBowling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\obj\Debug\net6.0\SimpleBowling.AssemblyInfoInputs.cache
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\obj\Debug\net6.0\SimpleBowling.AssemblyInfo.cs
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\obj\Debug\net6.0\SimpleBowling.csproj.CoreCompileInputs.cache
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\obj\Debug\net6.0\SimpleBowling.dll
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\obj\Debug\net6.0\refint\SimpleBowling.dll
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\obj\Debug\net6.0\SimpleBowling.pdb
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\obj\Debug\net6.0\SimpleBowling.genruntimeconfig.cache
+C:\Users\jrotter\source\repos\jpr-otter\SimpleBowling\obj\Debug\net6.0\ref\SimpleBowling.dll
