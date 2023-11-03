@@ -75,4 +75,7 @@ internal class Program
         int result = (int)randomNumber;
         return result;
     }
+    //need to figure out how to the second throw works
+    //
+    //
 }
